@@ -1,10 +1,9 @@
-total 56
-drwxr-xr-x  9 Michael  staff   288  1 Jul 11:40 .
-drwxr-xr-x  5 Michael  staff   160  1 Jul 09:48 ..
--rw-r--r--@ 1 Michael  staff  6148  1 Jul 09:49 .DS_Store
--rw-r--r--  1 Michael  staff   110  1 Jul 11:42 chmodxScript.sh
--rw-r--r--@ 1 Michael  staff     0  1 Jul 11:44 file.txt
--rwxr-xr-x@ 1 Michael  staff   187  1 Jul 11:35 helloScript.sh
--rwxr-xr-x  1 Michael  staff   126  1 Jul 11:33 inputScript.sh
--rwxr-xr-x  1 Michael  staff   187  1 Jul 11:37 stdreadScript.sh
--rwxr-xr-x  1 Michael  staff   102  1 Jul 10:50 whileScript.sh
+chmodxScript.sh
+file.txt
+helloScript.sh
+inputScript.sh
+receiverScript.sh
+senderScript.sh
+stdreadScript.sh
+uplowScript.sh
+whileScript.sh
